@@ -1,0 +1,46 @@
+.carita1{
+    border-radius: 500px;
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    margin-top: auto;
+}
+#ojo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: black;
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+#ojo2{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: black;
+    float: right;
+    margin-top: 100px;
+    margin-right: 50px;   
+}
+#boca{
+    background-color: red;
+    width: 200px;
+    height: 90px;
+    border-radius: 100px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 140px;
+}
+#nariz{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    float: right;
+    margin-top: 250px;
+    margin-right: 80px;
+}
+
+
